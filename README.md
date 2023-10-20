@@ -4,4 +4,8 @@ Here is where I will track my projects with a quick note on what each project do
 
 <br>
 Simple_Virus_Model.py: 
-    Simple virus model using python. It is a loop that keeps going as long as the commit is true. Once the commit hits false, the program will stop.
+    <br><p>Simple virus model using python. It is a loop that keeps going as long as the commit is true. Once the commit hits false, the program will stop.</p>
+
+<br>
+Simple_Filled_In_Heart.py: 
+<br><p>Create simple heart that is filled in.</p>
