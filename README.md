@@ -13,3 +13,7 @@ Simple_Filled_In_Heart.py:
 <br>
  DNA_Model.py:
 <br><p>A repeating model of the DNA strands</p>
+
+<br>
+Receipts.py:
+<br><p>A small project that stores names and prices</p>
