@@ -17,3 +17,7 @@ Simple_Filled_In_Heart.py:
 <br>
 Receipts.py:
 <br><p>A small project that stores names and prices</p>
+
+<br>
+Heart2.py:
+<br><p>Create a heart that slowly creates the shape to keep people guessing until it is filled out more.</p>
