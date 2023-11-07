@@ -29,3 +29,7 @@ To-Do List.py:
 <br>
 Weather App.py:
 <br><p>The weather app is a simple Python application that utilizes the OpenWeatherMap API to retrieve and display current weather data for a specified city. Users can input the name of a city, and the app will fetch and present information such as the weather condition, temperature, humidity, and atmospheric pressure for the given location. The app serves as a basic tool for users to quickly access essential weather information for any desired location.</p>
+
+<br>
+Shipping.py:
+<br><p>building a program that will take the weight of a package and determine the cheapest way to ship a package using Sal’s Shippers as an example.</p>
