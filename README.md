@@ -27,3 +27,5 @@ To-Do List.py:
 <br><p>Basic Python to do list app </p>
 
 <br>
+Weather App.py:
+<br><p>The weather app is a simple Python application that utilizes the OpenWeatherMap API to retrieve and display current weather data for a specified city. Users can input the name of a city, and the app will fetch and present information such as the weather condition, temperature, humidity, and atmospheric pressure for the given location. The app serves as a basic tool for users to quickly access essential weather information for any desired location.</p>
