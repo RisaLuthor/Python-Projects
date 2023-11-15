@@ -33,3 +33,7 @@ Weather App.py:
 <br>
 Shipping.py:
 <br><p>building a program that will take the weight of a package and determine the cheapest way to ship a package using Sal’s Shippers as an example.</p>
+
+<br>
+Gradebook.py:
+<br><p>Created a python list that keeps track of grades in multiple school subjects.</p>
