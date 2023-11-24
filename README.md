@@ -37,3 +37,7 @@ Shipping.py:
 <br>
 Gradebook.py:
 <br><p>Created a python list that keeps track of grades in multiple school subjects.</p>
+
+<br>
+Len's_Slice.py:
+<br><p>Example of working at Len’s Slice, a new pizza joint in the neighborhood. You are going to use your knowledge of Python lists to organize some of your sales data.</p>
