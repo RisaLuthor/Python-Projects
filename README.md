@@ -41,3 +41,7 @@ Gradebook.py:
 <br>
 Len's_Slice.py:
 <br><p>Example of working at Len’s Slice, a new pizza joint in the neighborhood. You are going to use your knowledge of Python lists to organize some of your sales data.</p>
+
+<br>
+Carly's_Clippers.py:
+<br><p>] Data Analyst example: Carly’s Clippers, the newest hair salon on the block. The job is to go through the lists of data that have been collected in the past couple of weeks. You will be calculating some important metrics that Carly can use to plan out the operation of the business for the rest of the month.</p>
