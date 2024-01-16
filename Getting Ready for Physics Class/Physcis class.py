@@ -10,7 +10,7 @@ Created on Mon Jan 15 20:18:52 2024
 # You are a Physics teacher preparing for the semester.
 # You want to provide students with some functions that will help them calculate some fundamental physical properties
 
-# Uncomment this whe nyou reach the "Use the Force" section
+# Uncomment this when you reach the "Use the Force" section
 
 train_mass = 22680
 train_acceleration = 10
