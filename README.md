@@ -44,9 +44,9 @@ Len's_Slice.py:
 
 <br>
 Carly's_Clippers.py:
-<br><p>] Data Analyst example: Carly’s Clippers, the newest hair salon on the block. The job is to go through the lists of data that have been collected in the past couple of weeks. You will be calculating some important metrics that Carly can use to plan out the operation of the business for the rest of the month.</p>
+<br><p> Data Analyst example: Carly’s Clippers, the newest hair salon on the block. The job is to go through the lists of data that have been collected in the past couple of weeks. You will be calculating some important metrics that Carly can use to plan out the operation of the business for the rest of the month.</p>
 
 <br>
 Scrabble.py:
-<br><p>] Process some data from a group of friends playing scrabble. Use dictionaries to organize players, words, and points.</p>
+<br><p> Process some data from a group of friends playing scrabble. Use dictionaries to organize players, words, and points.</p>
 
