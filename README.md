@@ -50,3 +50,8 @@ Carly's_Clippers.py:
 Scrabble.py:
 <br><p> Process some data from a group of friends playing scrabble. Use dictionaries to organize players, words, and points.</p>
 
+<br>
+Basta Fazoolin'.py:
+<br><p> Example of being a lead programmer for a family-style Italian restaurant Bast Fazoolin' with My Heart. The project is a final project for a setion in the codecademy python 3 Course.</p>
+
+
